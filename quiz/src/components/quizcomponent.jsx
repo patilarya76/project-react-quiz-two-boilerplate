@@ -2,7 +2,7 @@
 // Quiz.js
 import React from 'react';
 import './quiz.css';
-import questions from '../resources/quizQuestion';
+import questions from '/resources/quizQuestion';
 
 class Quiz extends React.Component {
     constructor() {
